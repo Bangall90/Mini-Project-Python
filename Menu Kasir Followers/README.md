@@ -1,4 +1,4 @@
-#MENU KASIR FOLLOWERS
+# MENU KASIR FOLLOWERS
 
 Aplikasi sederhana berbasis **Streamlit** yang mensimulasikan proses pembelian paket followers untuk berbagai platform media sosial. Pengguna dapat memilih paket followers, menambahkannya ke keranjang, melihat total harga, dan mengosongkan keranjang.
 
