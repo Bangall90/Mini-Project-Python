@@ -24,7 +24,7 @@ Aplikasi sederhana berbasis **Streamlit** yang mensimulasikan proses pembelian p
 
 ### 1. Clone repository
 ### 2. Masuk ke folder project
-### 3. Install Library Streamlit
+### 3. Install Library Streamlit Melalui Terminal
 ```bash
 pip install streamlit
 ```
@@ -34,7 +34,8 @@ atau
 ```bash
 pip install -r requirements.txt
 ```
-### 4. Jalankan aplikasi
+
+### 4. Jalankan aplikasi / program
 ```bash
 streamlit run Menukasir_followers.py
 ```
@@ -53,7 +54,7 @@ Project ini dibuat sebagai latihan untuk mempelajari:
 
 ## 🎯 Tujuan Project
 
-- Melatih penggunaan framework Streamlit.
+- Melatih penggunaan Streamlit.
 - Memahami cara menyimpan data sementara menggunakan Session State.
 - Menerapkan konsep dictionary pada Python.
 - Membuat simulasi aplikasi sederhana dengan antarmuka web.
