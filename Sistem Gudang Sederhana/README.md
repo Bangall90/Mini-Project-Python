@@ -35,3 +35,7 @@ Program ini menyimpan data sementara menggunakan list sehingga seluruh data akan
 * Mencari barang berdasarkan nama.
 * Menyimpan data ke file (CSV, JSON, atau database).
 * Menampilkan data dalam format tabel.
+
+## 📄 Lisensi
+
+Project ini menggunakan lisensi **MIT License**.
