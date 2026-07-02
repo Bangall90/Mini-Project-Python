@@ -37,3 +37,7 @@ Project ini menerapkan beberapa konsep dasar Python, di antaranya:
 ## 🎯 Tujuan Project
 
 Project ini dibuat sebagai media pembelajaran untuk memahami dasar-dasar pemrograman Python melalui simulasi permainan lotre sederhana. Selain melatih logika pemrograman, project ini juga memperkenalkan konsep peluang (probability) dan penggunaan bilangan acak dalam sebuah aplikasi sederhana.
+
+## 📄 Lisensi
+
+Project ini menggunakan lisensi **MIT License**.
