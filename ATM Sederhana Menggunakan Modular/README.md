@@ -40,3 +40,7 @@ Pengguna dapat melakukan beberapa transaksi seperti mengecek saldo, menyetor uan
 ## 🎯 Tujuan Proyek
 
 Proyek ini dibuat sebagai latihan dasar pemrograman Python untuk memahami implementasi fungsi, logika percabangan, perulangan, validasi input, penggunaan variabel global, serta penerapan algoritma sederhana dalam membangun simulasi sistem ATM berbasis terminal.
+
+## 📄 Lisensi
+
+Project ini menggunakan lisensi **MIT License**.
