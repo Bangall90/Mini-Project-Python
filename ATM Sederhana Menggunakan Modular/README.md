@@ -21,8 +21,8 @@ Pengguna dapat melakukan beberapa transaksi seperti mengecek saldo, menyetor uan
 - Pengguna memilih salah satu menu yang tersedia.
 - Program menjalankan fungsi sesuai pilihan pengguna.
 - Setiap transaksi akan memvalidasi nominal yang dimasukkan:
-  Nominal harus lebih dari nol.
-  Penarikan tidak boleh melebihi saldo yang tersedia.
+  - Nominal harus lebih dari nol.
+  - Penarikan tidak boleh melebihi saldo yang tersedia.
 - Setelah transaksi selesai, saldo akan diperbarui secara otomatis.
 - Program akan berhenti ketika pengguna memilih menu Keluar.
 
