@@ -58,3 +58,7 @@ Semua transaksi akan otomatis tersimpan ke file `data_keuangan.json`, sehingga d
 | `tampilkan_riwayat()` | Menampilkan seluruh riwayat transaksi dan saldo |
 | `hapus_transaksi()` | Menghapus transaksi berdasarkan nomor urut |
 | `menu()` | Menampilkan tampilan menu utama |
+
+## 📄 Lisensi
+
+Project ini menggunakan lisensi **MIT License**.
