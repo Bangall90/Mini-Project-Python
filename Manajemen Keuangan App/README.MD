@@ -1,6 +1,6 @@
 # 💰 Aplikasi Manajemen Keuangan Sederhana
 
-Aplikasi manajemen keuangan berbasis **command line (CLI)** yang dibuat menggunakan Python murni — hanya memanfaatkan **List** dan **Function (def)**, tanpa library eksternal atau framework tambahan (kecuali `json` bawaan Python untuk penyimpanan data).
+Aplikasi manajemen keuangan berbasis **command line (CLI)** yang dibuat menggunakan Python
 
 Aplikasi ini cocok untuk pemula yang ingin belajar konsep dasar Python seperti list, dictionary, fungsi, perulangan, percabangan, dan penyimpanan data ke file.
 
