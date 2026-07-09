@@ -20,7 +20,7 @@ Aplikasi ini cocok untuk pemula yang ingin belajar konsep dasar Python seperti l
 
 ## 🚀 Cara Penggunaan
 
-Setelah dijalankan, kamu akan melihat menu berikut:
+Silahkan jalankan program ini diterimal(CLI), Setelah dijalankan kamu akan melihat menu berikut:
 
 ```
 =============================================
