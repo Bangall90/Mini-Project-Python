@@ -25,7 +25,7 @@ def daftar_peserta():
 Berisi dua fungsi untuk mengolah data dari `daftar_peserta()`:
  
 - `rata_rata_umur()` → menghitung rata-rata umur seluruh peserta
-- `rata_rata_Jenis_kelamin()` → menghitung jumlah peserta laki-laki dan perempuan
+- `Jumlah_Jenis_kelamin()` → menghitung jumlah peserta laki-laki dan perempuan
 
 
 ### `main.py`
