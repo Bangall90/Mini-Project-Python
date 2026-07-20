@@ -1,4 +1,4 @@
-# 💰 Aplikasi Manajemen Keuangan Sederhana Menggunakan Data Penyimpanan JSON
+# 💰 Aplikasi Manajemen Keuangan Sederhana Menggunakan Penyimpanan JSON
 
 Aplikasi manajemen keuangan berbasis **command line (CLI)** yang dibuat menggunakan Python
 
